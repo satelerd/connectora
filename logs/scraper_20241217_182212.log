@@ -1,0 +1,15 @@
+2024-12-17 18:22:12,680 - INFO - Obteniendo página 1...
+2024-12-17 18:22:14,648 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/38911-alberto-avila-espinoza
+2024-12-17 18:22:16,347 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/24512-alejandro-cabezas-maturana
+2024-12-17 18:22:18,110 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/48391-alex-wladimir-ruedlinger-gonzalez
+2024-12-17 18:22:19,845 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/29289-ana-contreras-jara-ecoturismo
+2024-12-17 18:22:21,643 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/42046-andrea-parra-garrido
+2024-12-17 18:22:23,269 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/25039-andres-munoz-jerez
+2024-12-17 18:22:24,977 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/24062-benjamin-andres-olate-carreno
+2024-12-17 18:22:26,707 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/52374-berni-serrano
+2024-12-17 18:22:28,383 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/57513-berni-serrano-marquez
+2024-12-17 18:22:30,194 - INFO - Procesando guía en: https://serviciosturisticos.sernatur.cl/51706-bianco-montiglia-buzeta
+2024-12-17 18:22:30,881 - INFO - Procesados 10 guías...
+2024-12-17 18:22:31,886 - INFO - Alcanzado el límite de resultados: 10
+2024-12-17 18:22:31,888 - INFO - Datos guardados en CSV: data/csv/guias_turismo_20241217_182231.csv
+2024-12-17 18:22:31,888 - INFO - Scraping completo. Se encontraron 10 guías
